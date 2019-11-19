@@ -26,3 +26,11 @@ p {
     text-align: justify;
     font-size: 90%;
 }
+
+.color-text {
+    color: rgb(20, 20, 119);
+    font-size: 1rem;
+    font-family: sans-serif;
+    /* margin-bottom: 80px; */
+    font-weight: bold;
+}
